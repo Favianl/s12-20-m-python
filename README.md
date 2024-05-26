@@ -19,7 +19,7 @@ https://guardianesdelbosque.vercel.app/
 | Rol               | Nombre              | Redes                                                                                                                    |
 | :---------------- | :------------------ | :----------------------------------------------------------------------------------------------------------------------- |
 | `UX/UI Designer`  | Camila Gallardo          | [![behance]](https://www.behance.net/camigallardo) [![linkedin]](https://www.linkedin.com/in/camila-gallardo-360a131b9/)                                        |
-| `Front End`       | Leo Flores               | [![GitHub]](https://github.com/) [![linkedin]](https://www.linkedin.com/in/lFavian)                            |
+| `Front End`       | Leo Flores               | [![GitHub]](https://github.com/Favianl) [![linkedin]](https://www.linkedin.com/in/lFavian)                            |
 | `Front End`       | Andrea Cambra              | [![behance]](https://www.behance.net/andycambra) [![GitHub]](https://github.com/) [![linkedin]](https://www.linkedin.com/in/andy-cambra-06b2045/)                       |
 | `Front End`       | Vane Sánchez           | [![GitHub]](https://github.com/NezziY) [![linkedin]](https://www.linkedin.com/in/bertha-vanessa-s%C3%A1nchez-posadas-5b05a9208/)                       |
 | `Back End`        | Agustin Ribotta       | [![GitHub]](https://github.com/AgustinRibotta) [![linkedin]](https://www.linkedin.com/feed/)            |
